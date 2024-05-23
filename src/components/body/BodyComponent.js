@@ -2,7 +2,7 @@ import MenuComponent from "./MenuComponent";
 
 const BodyComponent = () => {
     return (
-        <div>
+        <div style={{ marginTop: "20px" }}>
             <MenuComponent />
         </div>
     )
